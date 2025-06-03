@@ -1,4 +1,4 @@
 # my-demo-project
 this is my first git repository
 <br>
-Author-prachi rawat
+Author-prachi ( apna college)
